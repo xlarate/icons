@@ -1,0 +1,12 @@
+[
+	https://raw.githubusercontent.com/xlarate/icons/main/images/1.png,
+	https://raw.githubusercontent.com/xlarate/icons/main/images/2.png
+	https://raw.githubusercontent.com/xlarate/icons/main/images/3.png,
+	https://raw.githubusercontent.com/xlarate/icons/main/images/4.png,
+	https://raw.githubusercontent.com/xlarate/icons/main/images/5.png,
+	https://raw.githubusercontent.com/xlarate/icons/main/images/6.png,
+	https://raw.githubusercontent.com/xlarate/icons/main/images/7.png
+	https://raw.githubusercontent.com/xlarate/icons/main/images/8.png,
+	https://raw.githubusercontent.com/xlarate/icons/main/images/9.png,
+	https://raw.githubusercontent.com/xlarate/icons/main/images/10.png
+]
